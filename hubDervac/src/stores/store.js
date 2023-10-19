@@ -117,13 +117,6 @@ export default function elementStores() {
                     image: '..../assets/others/linuxAdministration.png',
                 },
                 {
-                    module: 'Module 17',
-                    time: '8 Weeks(Weekend)',
-                    field: 'Red Hat System Admin.',
-                    desc: 'Elevate your Red Hat System Administration skills with our comprehensive course. Delve into Linux, networking, security, and automation intricacies. Master complex tasks and enterprise-level configurations. This course is ideal for experienced professionals seeking to proficiently manage and optimize Red Hat systems, ensuring robust performance and security in various IT environments.',
-                    image: '..../assets/others/redHatSystemAdmin.png',
-                },
-                {
                     module: 'Module 18',
                     time: '4 Weeks(Weekend)',
                     field: 'Computer Networking Fundamentals',
