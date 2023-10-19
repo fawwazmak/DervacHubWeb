@@ -30,7 +30,7 @@ export default defineComponent({
                     <p class="text-[#d82e21] main-text font-extrabold min-[330px]:text-[40px] text-[25px]">Digital World!</p>
 
                     <!-- The slant avatar images -->
-                    <div class="sm:flex flex-row hidden bg-white w-fit py-3 pl-3 pr-6 rounded-[10px] lg:mx-0 mx-auto lg:absolute rotate-in-my-way top-[70px] lg:shadow-2xl right-[-65px] 2xl:right-28 z-10">
+                    <div class="sm:flex flex-row hidden bg-white w-fit py-3 pl-3 pr-6 rounded-[10px] lg:mx-0 mx-auto lg:absolute rotate-in-my-way top-[70px] lg:shadow-2xl right-[-80px] 2xl:right-28 z-10">
                         <img src="../../assets/others/abdrrasheed.jpg" alt="" class="flex-none w-[50px] h-[50px] block rounded-[50%]">
                         <img src="../../assets/others/agba.jpg" alt="" class="flex-none w-[50px] h-[50px] block rounded-[50%]">
                         <img src="../../assets/others/Balkis.jpg" alt="" class="flex-none w-[50px] h-[50px] block rounded-[50%]">

@@ -36,7 +36,7 @@
               <p class="text-red-600 bg-[#F0F9FF] py-[2px] px-[10px] rounded-[16px]">Module 2</p>
               <p class="text-red-600 text-[14px] font-[600]">6 Weeks</p>
             </div>
-            <h1 class="text-[#224C75] text-[24px] font-[600] leading-6 my-2">Web Development fund.</h1>
+            <h1 class="text-[#224C75] text-[24px] font-[600] leading-6 my-2">Web Development fundamentals</h1>
             <p class="text-[#475467] text-[16px] font-[400]">Discover the fundamentals of web development in our introductory course. Learn HTML, CSS, and JavaScript essentials to build and style web pages. Acquire foundational skills for creating interactive and responsive websites. Perfect for beginners and those looking to grasp the basics of web development.</p>
             <div class="flex justify-between items-center text-[#344054] hover:text-white hover:bg-[#142c45] transition duration-500 mt-[24px] w-[161px] border border-gray-300 rounded-[15px] py-[12px] px-[16px]">
               <p class=" text-[18px] font-[400]">Enroll</p>
@@ -53,7 +53,7 @@
               <p class="text-red-600 bg-[#F0F9FF] py-[2px] px-[10px] rounded-[16px]">Module 3</p>
               <p class="text-red-600 text-[14px] font-[600]">6 Months</p>
             </div>
-            <h1 class="text-[#224C75] text-[24px] font-[600] leading-6 my-2">Fullstack</h1>
+            <h1 class="text-[#224C75] text-[24px] font-[600] leading-6 my-2">Full-Stack</h1>
             <p class="text-[#475467] text-[16px] font-[400]">Discover the full range of web development in our Fullstack Web Development Mastery course. Seamlessly blend frontend and backend expertise to become a versatile developer creating holistic web solutions. Excel in FrontEnd tools for captivating interfaces, while exploring server-side technologies, APIs, databases, and security in depth.</p>
             <div class="flex justify-between items-center text-[#344054] hover:text-white hover:bg-[#142c45] transition duration-500 mt-[24px] w-[161px] border border-gray-300 rounded-[15px] py-[12px] px-[16px]">
               <p class=" text-[18px] font-[400]">Enroll</p>
