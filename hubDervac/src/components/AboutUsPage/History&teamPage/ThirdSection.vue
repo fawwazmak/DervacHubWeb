@@ -20,8 +20,8 @@ export default defineComponent({
 <template>
     <section class="grid md:grid-cols-2 bg-[#f2f9ff] items-center sm:px-24 px-8 py-20 gap-10 font-sans">
         <div class="flex flex-col gap-6 md:text-left text-center">
-            <p class="text-[40px] font-bold text-[#224c75]">History</p>
-            <p class="text-[#475467] md:text-[20px] text-[16px]">Dervac HUB is an initiative of Dervac Global Services Ltd non-profit partnership program that authorizes global universities and colleges to deliver industry-recognized Huawei Certification courses to students. This program acts as a bridge between enterprises and academy to build a talent ecosystem for ICT industry. It has been designed to deliver industry standard training and certification courses required by employers. Access to these courses will prepare students with the latest and practical skills to work in ICT industry, making them more employable and helping them kick start their careers.</p>
+            <p class="text-[40px] font-bold text-[#224c75]">We are technology platform</p>
+            <p class="text-[#475467] md:text-[20px] text-[16px]">Dervac ICT Hub is a technology skills platform that nurtures technology startups with global aspirations, providing Co-Working Space as part of the ingredients for business prosperity. An initiative of Dervac Global Services Ltd, it is situated in Palmgrove, Lagos, Nigeria. Our physical training center aims to provide access to ICT knowledge and skills, ultimately benefiting the country. We take pride in our capability to turn ideas into business solutions, helping thousands of organizations undergo transformation at scale and eventually enter the market. Our team of experts excels at comprehending your needs, challenging ideas, and devising innovative solutions that generate significant and lasting social impact, while delivering top-notch IT solutions</p>
             <Button value="Join us now" class="bg-gradient-to-r from-[#132b42] to-[#1d4266] rounded-[5px] text-white py-3 px-5 md:block hidden "/>
 
         </div>
@@ -45,7 +45,7 @@ export default defineComponent({
     <section class="bg-white sm:px-24 px-8 py-10 font-sans">
         <div class="text-center flex flex-col items-center gap-8 ">
             <div class="sm:w-[60%] w-full">
-                <p class="font-bold sm:text-[35px] text-[25px]">Meet our team </p>
+                <p class="font-bold sm:text-[35px] text-[25px]">The team </p>
                 <p class="mt-6 sm:text-[19px] text-[14px] text-[#475467]">Our philosophy is simple - hire a team of diverse, passionate people and foster a culture that empowers you to do your best work.</p>
             </div>
 

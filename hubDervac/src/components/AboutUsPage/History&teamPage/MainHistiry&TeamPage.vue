@@ -23,7 +23,6 @@ export default defineComponent({
     <div class="bg-white pb-16">
         <OneSection />
         <ThirdSection />
-        <!-- <FellowsList /> -->
         <Subscriber />
         <SecondSection />
         <SixthSection />
