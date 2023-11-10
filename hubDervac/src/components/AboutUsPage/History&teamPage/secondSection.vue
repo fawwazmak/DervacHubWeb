@@ -15,3 +15,10 @@
         </div>
     </div>
 </template>
+
+<style scoped>
+.join{
+    position: static !important;
+    margin-bottom: 70px;
+}
+</style>
