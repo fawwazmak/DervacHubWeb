@@ -4,7 +4,7 @@ import { createRouter, createWebHistory } from 'vue-router';
 
 
 const router = createRouter({
-    history: createWebHistory(),
+    history: createWebHistory(import.meta.env.BASE_URL),
     routes: [
         {
             path: '/',
@@ -66,7 +66,10 @@ const router = createRouter({
             name: 'CO-WORKSPACE',
             component: () => import ('./components/coWorkSpace/mainCoWorkPage.vue')
         }
-    ]
+    ],
+    scrollBehaviour(to, from, savedPosition){
+        return {top : 0}
+    }
 })
 
 

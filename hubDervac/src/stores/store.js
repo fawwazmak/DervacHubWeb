@@ -276,7 +276,17 @@ export default function elementStores() {
                     imageUrl: '../assets/ajagunna.jpg', 
                 },
                 { 
+
                     id: 8,
+                    name: 'Fawwaz Makinde',
+                    based: "Front-End Developer", 
+                    linkedIn: '../assets/fawaz.jpg', 
+                    website: '../assets/fawaz.jpg', 
+                    twitter: '../assets/fawaz.jpg', 
+                    imageUrl: '../assets/fawaz.jpg', 
+                },
+                { 
+                    id: 9,
                     name: 'Hassan Akeredolu',
                     based: "Technical Officer", 
                     linkedIn: 'https://www.linkedin.com/in/akeredolu-hassan-8a799850/', 
@@ -285,7 +295,7 @@ export default function elementStores() {
                     imageUrl: '../assets/hassan.jpg', 
                 },
                 { 
-                    id: 9,
+                    id: 10,
                     name: 'Sanni Hammed',
                     based: "Front-End Developer", 
                     linkedIn: 'https://www.linkedin.com/in/hammed-sanni-b27765236/',
@@ -294,23 +304,13 @@ export default function elementStores() {
                     imageUrl: '../assets/hammed.png'
                 },               
                 { 
-                    id: 10,
+                    id: 11,
                     name: 'Luqmon AbdurRahman',
                     based: "Front-End Developer", 
                     linkedIn: 'https://www.linkedin.com/in/surecoders/', 
                     website: '../assets/ajagunna.jpg', 
                     twitter: 'https://twitter.com/MarufdeenB', 
                     imageUrl: '../assets/tijani.jpg', 
-                },
-                { 
-
-                    id: 11,
-                    name: 'Fawwaz Makinde',
-                    based: "Front-End Developer", 
-                    linkedIn: '../assets/fawaz.jpg', 
-                    website: '../assets/fawaz.jpg', 
-                    twitter: '../assets/fawaz.jpg', 
-                    imageUrl: '../assets/fawaz.jpg', 
                 },
                 { 
                     id: 12,
@@ -463,7 +463,7 @@ export default function elementStores() {
                         year: 2021, 
                     },
                     { 
-                        id: 13,
+                        id: 14,
                         name: 'Usman Zahradeen',
                         based: "Front-End Developer", 
                         linkedIn: '../assets/fawaz.jpg', 
@@ -473,7 +473,7 @@ export default function elementStores() {
                         year: 2021, 
                     },
                     { 
-                        id: 13,
+                        id: 15,
                         name: 'Aransiola Abdulquadri',
                         based: "Front-End Developer", 
                         linkedIn: '../assets/fawaz.jpg', 
@@ -483,7 +483,7 @@ export default function elementStores() {
                         year: 2021, 
                     },
                     { 
-                        id: 13,
+                        id: 16,
                         name: 'Kosoko Quam',
                         based: "Front-End Developer", 
                         linkedIn: '../assets/fawaz.jpg', 
@@ -493,7 +493,7 @@ export default function elementStores() {
                         year: 2021, 
                     },
                     { 
-                        id: 13,
+                        id: 17,
                         name: 'AbdulRasheed Sirajudeen',
                         based: "Front-End Developer", 
                         linkedIn: '../assets/fawaz.jpg', 
